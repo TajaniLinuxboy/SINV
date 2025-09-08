@@ -40,3 +40,7 @@ Stage 5: Explore New Opportunities (Late 2025 - 2026)
 - Explore opportunities on other blockchains using the XRPL bridge.
 
 ## Contact
+Founder -- SINV Email &rarr; strongkeshawn047@gmail.com
+LinkedIn -- [LinkedIn] (https://www.linkedin.com/in/keshawn-strong)
+
+
