@@ -41,7 +41,7 @@ Stage 5: Explore New Opportunities (Late 2025 - 2026)
 
 ## Contact
 Founder of SINV: 
-Email &rarr; strongkeshawn047@gmail.com
-LinkedIn &rarr; [LinkedIn](https://www.linkedin.com/in/keshawn-strong)
+- Email &rarr; strongkeshawn047@gmail.com
+- LinkedIn &rarr; [LinkedIn](https://www.linkedin.com/in/keshawn-strong)
 
 
