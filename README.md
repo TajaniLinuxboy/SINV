@@ -8,8 +8,8 @@ SINV Token: Building a Sustainable Yield-Generating Ecosystem on XRPL EVM Sidech
 - SINV aims to redefine cryptocurrency ownership by offering tangible returns and fostering a stable, rewarding ecosystem for its holders. The mission is to move beyond speculative gains by providing passive income through various investments made on the holders vote
 
 ## Repo Structure: 
-- contracts/   &rarr; SINV Contracts, Governance-Treasury Contracts, Health Checks & etc
-- test/  &rarr; Test SINV, Test Governance-Treasury Contracts, Test Health Checks & etc
+- contracts/   &rarr; SINV Contracts, Governance-Treasury Contracts, & etc
+- test/  &rarr; Test SINV, Test Governance-Treasury Contracts, & etc
 - scripts &rarr; Automation Scripts
 - ignition &rarr; Deployment Scripts
 
