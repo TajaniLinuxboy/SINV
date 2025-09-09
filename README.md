@@ -1,5 +1,5 @@
 # SINV
-SINV Token: Building a Sustainable Yield-Generating Ecosystem on XRPL EVM Sidechain
+SINV Token: Building a Sustainable Governance & Yield-Generating Ecosystem on XRPL EVM Sidechain
 
 ## Project Overview:
 - Traditional cryptocurrencies often lack guaranteed returns and rely heavily on speculative gains. SINV addresses this by offering a stable, rewarding ERC20 Token built on the XRPL EVM Sidechain. SINV's Governance based ecosystem will provide consistent value to holders through liquidity pools, lending protocols, and RWA’s
